@@ -37,7 +37,7 @@ Star Hope is a responsive charity website designed to promote humanitarian cause
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/star-hope.git
+git clone https://github.com/biba123618/star-hope.git
 2-Extract the ZIP file if downloaded manually.
 
 3-Open the index.html file in any browser to view the website.
